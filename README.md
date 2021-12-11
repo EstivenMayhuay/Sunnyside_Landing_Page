@@ -4,7 +4,7 @@ This is a challenges of **frontendmentor.io**, Technologies used were  ***HTML, 
 
 ## Link Site
 
-- [https://estivenm99.github.io/Sunnyside_Landing_Page/](https://estivenm99.github.io/Sunnyside_Landing_Page/)
+- [https://estivenmayhuay.github.io/Sunnyside_Landing_Page/](https://estivenmayhuay.github.io/Sunnyside_Landing_Page/)
 
 ## Views
 
